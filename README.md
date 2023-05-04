@@ -11,3 +11,7 @@ This project is an exercise in serial communications and creativity. This game i
 - 2 10k Ohm Transistors
 - Male to Female wires ( A BUNCH )
 - Male to Male wires ( A BUNCH )
+
+![alt text](https://github.com/skullbelow/ArduinoPongGame/blob/ea7fc48072c26f01b800fc5d94739b59fe657288/PongGameGif.gif?raw=true)
+
+![alt text](https://raw.githubusercontent.com/skullbelow/ArduinoPongGame/ea7fc48072c26f01b800fc5d94739b59fe657288/BetterPongGame.gif)
